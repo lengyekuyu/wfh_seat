@@ -1,0 +1,14 @@
+
+insert into pikemodel_recomdadvs(url, title, keywords, hots) values("https://img14.360buyimg.com/n0/jfs/t3508/220/2607819452/449071/2f08f8ee/585a2c65N2b4e04d6.jpg", "good apple", "Good Apple", 90);
+insert into pikemodel_recomdadvs(url, title, keywords, hots) values("http://www.23r23r.img", "圣诞节诶活动优惠", "活动力度空前", 50);
+insert into pikemodel_recomdadvs(url, title, keywords, hots) values("http://www.23radf.img", "诶活动优惠圣诞节", "活空前动力度", 70);
+insert into pikemodel_recomdadvs(url, title, keywords, hots) values("http://www.23asdf.img", "圣诶活动诞节优惠", "活动力度空前", 60);
+insert into pikemodel_recomdadvs(url, title, keywords, hots) values("http://www.aaaaaa.img", "圣诶活诞节动优惠", "活动力度空前", 56);
+insert into pikemodel_recomdadvs(url, title, keywords, hots) values("http://www.fffffr.img", "圣诞节诶活动优惠", "活动力度空前", 55);
+insert into pikemodel_recomdadvs(url, title, keywords, hots) values("http://www.2ffffr.img", "圣诞动优惠节诶活", "活动力度空前", 54);
+insert into pikemodel_recomdadvs(url, title, keywords, hots) values("http://www.cccccc.img", "活动优惠圣诞节诶", "活动力度空前", 53);
+insert into pikemodel_recomdadvs(url, title, keywords, hots) values("http://www.dddddd.img", "活动优惠圣诞节诶", "活动力度空前", 59);
+insert into pikemodel_recomdadvs(url, title, keywords, hots) values("http://www.zzzzzz.img", "圣诞动优惠节诶活", "度空前活动力", 10);
+
+
+
